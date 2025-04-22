@@ -22,6 +22,55 @@ UI tested on 20+ screen sizes with 95% responsiveness score
 Reduced development time by 30% through reusable components
 
 Enhanced user engagement with modern, accessible design
+______________________________________________________________________________________________________________________________
+
+📊 Hotel Booking Analysis (Power BI)
+Welcome to the Hotel Booking Analysis repository!
+This project leverages Power BI and DAX to explore and analyze hotel booking data, uncovering insights related to customer behavior, cancellations, booking trends, and more.
+
+🔍 Key Features
+Total Bookings and Cancellations tracking
+
+Dynamic dashboards with slicers for Year, Month, and Hotel Type
+
+Visual breakdown of customer stay patterns
+
+Data cleaning and transformation using Power Query
+
+DAX measures for deeper analytical insights (e.g., cancellation rate, average stay duration)
+
+📈 Technologies Used
+Power BI
+
+DAX (Data Analysis Expressions)
+
+Power Query (M Language)
+
+📁 Data Source
+This analysis is based on publicly available hotel booking datasets.
+(Note: Replace with actual dataset/source info if applicable.)
+
+💡 Insights
+Some of the key questions this report helps answer:
+
+What percentage of bookings get canceled?
+
+Which months have the highest booking volume?
+
+How do city and resort hotels compare?
+
+What’s the average lead time for bookings?
+
+📌 Getting Started
+To explore the report:
+
+Download the .pbix file.
+
+Open it in Power BI Desktop.
+
+Use slicers and visuals to interact with the data!
+
+
 
 
 
